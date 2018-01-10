@@ -32,6 +32,10 @@ you’re looking at right now.
 installation
 ------------
 
+debian/ubuntu packages
+apt-get install libxml-simple-perl libappconfig-perl libmoo-perl
+
+
 The latest release of Net::Fritz can be installed directly from CPAN,
 eg. via
 
